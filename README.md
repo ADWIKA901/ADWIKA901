@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I am Adwika 
 🤖 Currently pursuing Artificial Intelligence & Machine Learning<br>☕ Learning Java for Data Structures & Algorithms (DSA)<br>🐍 Learning Python for Full-Stack Development<br>💻 Focusing on Frontend Development<br>🧠 Exploring AI/ML and real-world applications<br>🔨 Building projects to strengthen my development skills<br>📚 Always learning and improving my problem-solving skills
 
 
